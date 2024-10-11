@@ -1,5 +1,5 @@
 {
-  "name": "svg-component-package",
+  "name": "@arzoka/svg-component-package",
   "version": "1.0.2",
   "description": "A package that returns SVGs as React components.",
   "main": "lib/index.js",
@@ -32,6 +32,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arzoka/svg-component-package.git"
+    "url": "git://github.com/Arzoka/svg-component-package.git"
   }
 }
